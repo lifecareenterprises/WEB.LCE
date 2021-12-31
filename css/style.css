@@ -183,7 +183,12 @@ h6,
 }
 
 .hero-header {
-    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/carousel-1.jpg) top right no-repeat;
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../images/carousel-1.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.hero-headerf {
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../images/Financial-v.jpg) top right no-repeat;
     background-size: cover;
 }
 
@@ -217,7 +222,7 @@ h6,
 }
 
 .bg-offer {
-    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/carousel-2.jpg) top right no-repeat;
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../images/carousel-2.jpg) top right no-repeat;
     background-size: cover;
 }
 

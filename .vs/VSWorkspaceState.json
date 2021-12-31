@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\css",
-    "\\lib\\animate",
-    "\\lib\\flaticon\\font\\Flaticon"
+    "\\lib\\flaticon",
+    "\\lib\\flaticon\\font"
   ],
-  "SelectedNode": "\\payment.html",
   "PreviewInSolutionExplorer": false
 }
